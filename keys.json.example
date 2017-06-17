@@ -1,0 +1,22 @@
+[
+	{
+		"consumerKey":"xxxxxxxxxxxxxxxxxx",
+		"consumerSecret":"xxxxxxxxxxxxxxxxxxxxx",
+		"accessToken":"xxxxxx-xxxxxxxxxxxxxxx",
+		"accessSecret":"xxxxxxxxxxxxxxxxxx"
+	},
+
+	{
+		"consumerKey":"xxxxxxxxxxxxxxxxxx",
+		"consumerSecret":"xxxxxxxxxxxxxxxxxxxxx",
+		"accessToken":"xxxxxx-xxxxxxxxxxxxxxx",
+		"accessSecret":"xxxxxxxxxxxxxxxxxx"
+	},
+
+	{
+		"consumerKey":"xxxxxxxxxxxxxxxxxx",
+		"consumerSecret":"xxxxxxxxxxxxxxxxxxxxx",
+		"accessToken":"xxxxxx-xxxxxxxxxxxxxxx",
+		"accessSecret":"xxxxxxxxxxxxxxxxxx"
+	}
+]
